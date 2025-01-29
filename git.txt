@@ -1,0 +1,8 @@
+github is a website which provides us to store data on remote server(data base)
+git 
+repo is a folder
+1.create repo
+2.clone repo on our local machine cmd-git clone adress of repo
+3.git add .
+4.git commit -m "our message"
+5.git push
